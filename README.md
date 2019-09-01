@@ -1,2 +1,2 @@
 # Dasmoto
- Codecademy Education Projects (Web Development) 09/01/2019
+ Codecademy educational projects (Web Development) 09/01/2019
