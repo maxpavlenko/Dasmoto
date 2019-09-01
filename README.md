@@ -1,2 +1,2 @@
-# Codecademy
- Education projects (Web Development) 09/01/2019
+# DevProject
+ Codecademy Education Projects (Web Development) 09/01/2019
